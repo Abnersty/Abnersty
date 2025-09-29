@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />&nbsp;
-  <img align="right" src="https://cdn.discordapp.com/attachments/1422148289301708872/1422148347233435659/Image_to_video_Faca_um_pequeno_gif_desta_imagem.gif?ex=68db9e5c&is=68da4cdc&hm=085b75bb6543ef26ec4ad56c18d8c641f2794ff5ae87513404353a518035a869&"width="150" height="200">
+  <img align="right" src="https://cdn.discordapp.com/attachments/1422148289301708872/1422148347233435659/Image_to_video_Faca_um_pequeno_gif_desta_imagem.gif?ex=68db9e5c&is=68da4cdc&hm=085b75bb6543ef26ec4ad56c18d8c641f2794ff5ae87513404353a518035a869&"width="200" height="250">
 </div>
 
 <br>
